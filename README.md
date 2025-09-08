@@ -8,6 +8,6 @@ Pda code saya, saya menggunakan "Font Awesome" untuk menampilkan ikon media sosi
 
 Saya juga pakai "Flexbox" untuk membuat tata letak yang responsif 
 
-Saya juga pakai tag <span> di dalam elemen teks (<h1> dan <p>) seperti yang bapak jelaskan pada pertemuan 8 September untuk menerapkan gaya yang berbeda di bagian tertentu dari teks, seperti mengubah warna dari kata "Teknik"
+Saya juga pakai tag "span" di dalam elemen teks "h1" dan "p" seperti yang bapak jelaskan pada pertemuan 8 September untuk menerapkan gaya yang berbeda di bagian tertentu dari teks, seperti mengubah warna dari kata "Teknik"
 
 disini saya juga menambahkan gambar yang saya ambil dari "undraw" untuk memperamai tampilan
